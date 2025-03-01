@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou Higor Santos 👋
 
-<!--
-**hssHigor/hssHigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções eficientes e inovadoras. Aqui você vai encontrar alguns dos meus projetos, que vão de pequenos scripts a grandes aplicações. Fique à vontade para explorar!
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que eu uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Linguagens de Programação**: Java.
+- ⚙️ **Frameworks e Bibliotecas**: SpringBoot
+- 📊 **Outros**: SQL
+
+## 🌱 Atualmente aprendendo
+
+- Aprendendo mais sobre **Java**
+- Explorando **JavaScript** para melhorar minhas habilidades.
+
+## 📬 Vamos nos conectar!
+
+- [LinkedIn](https://www.linkedin.com/in/higor-santos-0733a41b8/)
