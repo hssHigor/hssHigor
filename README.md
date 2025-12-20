@@ -15,4 +15,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar sol
 
 ## 📬 Vamos nos conectar!
 
-- [LinkedIn](https://www.linkedin.com/in/higor-santos-0733a41b8/)
+- [LinkedIn](https://www.linkedin.com/in/higor-hss/)
