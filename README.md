@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/arcade/cabinet/abertura.svg" alt="Fliperama do Higor Santos" width="100%"></p>
+<p align="center"><img src="./assets/arcade/cabinet/higor-santos.svg" alt="Player 1 · Higor Santos" width="100%"></p>
 
 **Higor Santos · Backend com Java e Spring Boot**
 
