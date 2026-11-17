@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="232" viewBox="0 0 820 232" role="img" aria-labelledby="title description">
+  <title id="title">Higor Santos</title>
+  <desc id="description">Terminal retrô com o comando whoami. Backend com Java, Spring Boot e SQL.</desc>
+  <defs>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#7df6aa" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="818" height="230" rx="16" fill="#091611" stroke="#34634e" stroke-width="2"/>
+  <rect x="2" y="2" width="816" height="228" rx="15" fill="url(#scanlines)"/>
+  <path d="M2 46h816" stroke="#34634e"/>
+  <circle cx="24" cy="24" r="5" fill="#ee857f"/>
+  <circle cx="42" cy="24" r="5" fill="#ecc674"/>
+  <circle cx="60" cy="24" r="5" fill="#85eaa7"/>
+  <g font-family="monospace">
+    <text x="410" y="30" text-anchor="middle" fill="#acd2bc" font-size="16">higor@github:~</text>
+    <text x="36" y="87" fill="#83e9a3" font-size="24">$ whoami</text>
+    <text x="36" y="147" fill="#afffc7" font-size="56" font-weight="700">Higor Santos</text>
+    <text x="38" y="190" fill="#b8d8c6" font-size="26">Backend · Java · Spring Boot · SQL</text>
+    <rect x="763" y="174" width="15" height="20" fill="#83e9a3"/>
+  </g>
+</svg>
