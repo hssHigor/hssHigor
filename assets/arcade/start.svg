@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="42" viewBox="0 0 180 42" role="img" aria-labelledby="title">
+<title id="title">Press Start</title>
+<style>
+  @media (prefers-reduced-motion: no-preference) {
+    text { animation: pulse 1.7s ease-in-out infinite alternate; }
+  }
+  @keyframes pulse { to { opacity: .45; } }
+</style>
+<path d="M7 1H173L179 7V35L173 41H7L1 35V7Z" fill="#26153e" stroke="#c781f2" stroke-width="2"/>
+<path d="M16 14L24 21L16 28Z" fill="#75ffd8"/>
+<text x="35" y="27" fill="#f8d8ff" font-family="monospace" font-size="18" font-weight="bold" letter-spacing="1">PRESS START</text>
+</svg>
