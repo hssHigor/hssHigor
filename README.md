@@ -1,21 +1,17 @@
-![Fliperama do Higor — Higor Santos · Java · Spring Boot · SQL](./assets/arcade/letreiro.svg)
+![Fliperama do Higor Santos · Java · Spring Boot · SQL](./assets/arcade/cabinet/abertura.svg)
 
-[![Press Start — ir para os projetos](./assets/arcade/start.svg)](#selecione-um-cartucho)
+[![Press Start · ir aos projetos](./assets/arcade/start.svg)](#selecione-um-cartucho)
 
-Curto jogos e estudo backend com Java. Aqui estão alguns dos projetos em que coloquei em prática o que venho aprendendo.
+![Sobre o jogador. Curto jogos e estudo backend com Java. Pratico com APIs REST, SQL e padrões de projeto.](./assets/arcade/cabinet/jogador.svg)
 
 ## Selecione um cartucho
 
-[![Assistente Financeiro com IA — abrir repositório](./assets/arcade/assistente-financeiro.svg)](https://github.com/hssHigor/assistente-financeiro)
+[![Assistente Financeiro com IA. API em Java e Spring Boot que recebe comandos de texto ou voz e consulta ou registra transações. Abrir repositório.](./assets/arcade/cabinet/assistente.svg)](https://github.com/hssHigor/assistente-financeiro)
 
-API em Java e Spring Boot que interpreta comandos por texto ou voz para consultar e registrar transações.
+[![Controle de Gastos. Sistema para cadastrar pessoas, acompanhar receitas e despesas e gerar relatórios. Abrir repositório.](./assets/arcade/cabinet/gastos.svg)](https://github.com/hssHigor/DesafioPratico)
 
-[![Controle de Gastos — abrir repositório](./assets/arcade/controle-de-gastos.svg)](https://github.com/hssHigor/DesafioPratico)
+[![Padrões de Projeto em Java. Repositório de estudos sobre os conceitos básicos de padrões de projeto em Java. Abrir repositório.](./assets/arcade/cabinet/java.svg)](https://github.com/hssHigor/padroes-projeto-java)
 
-Desafio técnico para cadastrar pessoas, acompanhar receitas e despesas e gerar relatórios consolidados.
+## Contato
 
-[![Padrões de Projeto em Java — abrir repositório](./assets/arcade/padroes-java.svg)](https://github.com/hssHigor/padroes-projeto-java)
-
-Estudos sobre os conceitos básicos de padrões de projeto em Java.
-
-[Higor Santos no LinkedIn](https://www.linkedin.com/in/higor-hss/)
+[![Higor Santos no LinkedIn](./assets/arcade/cabinet/linkedin.svg)](https://www.linkedin.com/in/higor-hss/)
