@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="144" viewBox="0 0 760 144" role="img" aria-labelledby="title"><title id="title">Sobre o jogador</title><defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#714caf" stroke-opacity=".22" fill="none"/></pattern><linearGradient id="base" x2="0" y2="1"><stop stop-color="#22163c"/><stop offset="1" stop-color="#100d21"/></linearGradient></defs><g font-family="monospace"><path d="M17 1H743L759 17V127L743 143H17L1 127V17Z" fill="url(#base)" stroke="#8656ba" stroke-width="2"/><path d="M17 2H743L758 17V127L743 142H17L2 127V17Z" fill="url(#grid)"/>
+<path d="M28 26h8v92h-8z" fill="#a56ce0"/>
+<text x="56" y="51" fill="#9fffe4" font-size="22" font-weight="bold" letter-spacing="2">SOBRE O JOGADOR</text>
+<text x="56" y="86" fill="#fff0ff" font-size="24" >Curto jogos e estudo backend com Java.</text>
+<text x="56" y="113" fill="#fff0ff" font-size="24" >Pratico com APIs REST, SQL e padrões de projeto.</text></g></svg>
