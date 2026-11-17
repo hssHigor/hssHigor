@@ -1,17 +1,22 @@
-![Fliperama do Higor Santos · Java · Spring Boot · SQL](./assets/arcade/cabinet/abertura.svg)
+<p align="center"><img src="./assets/arcade/cabinet/abertura.svg" alt="Fliperama do Higor Santos" width="100%"></p>
 
-[![Press Start · ir aos projetos](./assets/arcade/start.svg)](#selecione-um-cartucho)
+**Higor Santos · Backend com Java e Spring Boot**
 
-![Sobre o jogador. Curto jogos e estudo backend com Java. Pratico com APIs REST, SQL e padrões de projeto.](./assets/arcade/cabinet/jogador.svg)
+Curto jogos e estudo backend. Meus projetos passam por APIs REST, dados e padrões de projeto. No Assistente Financeiro, explorei como transformar um comando de texto ou voz em uma consulta ou registro de transação.
 
 ## Selecione um cartucho
 
-[![Assistente Financeiro com IA. API em Java e Spring Boot que recebe comandos de texto ou voz e consulta ou registra transações. Abrir repositório.](./assets/arcade/cabinet/assistente.svg)](https://github.com/hssHigor/assistente-financeiro)
+<p align="center"><a href="https://github.com/hssHigor/assistente-financeiro"><img src="./assets/arcade/cabinet/assistente.svg" width="100%" alt="Projeto em destaque: Assistente Financeiro com IA. API em Java e Spring Boot que recebe comandos de texto ou voz e consulta ou registra transações."></a></p>
 
-[![Controle de Gastos. Sistema para cadastrar pessoas, acompanhar receitas e despesas e gerar relatórios. Abrir repositório.](./assets/arcade/cabinet/gastos.svg)](https://github.com/hssHigor/DesafioPratico)
+<p align="center">
+  <a href="https://github.com/hssHigor/DesafioPratico"><img src="./assets/arcade/selecao/gastos.svg" width="49%" alt="Controle de Gastos. Sistema para acompanhar receitas, despesas e relatórios."></a>
+  <a href="https://github.com/hssHigor/padroes-projeto-java"><img src="./assets/arcade/selecao/java.svg" width="49%" alt="Padrões de Projeto. Estudos e exemplos em Java."></a>
+</p>
 
-[![Padrões de Projeto em Java. Repositório de estudos sobre os conceitos básicos de padrões de projeto em Java. Abrir repositório.](./assets/arcade/cabinet/java.svg)](https://github.com/hssHigor/padroes-projeto-java)
+## Equipamento do jogador
+
+<p align="center"><img src="./assets/arcade/selecao/equipamento.svg" width="100%" alt="Java, Spring Boot, APIs REST e SQL"></p>
 
 ## Contato
 
-[![Higor Santos no LinkedIn](./assets/arcade/cabinet/linkedin.svg)](https://www.linkedin.com/in/higor-hss/)
+<p align="center"><a href="https://www.linkedin.com/in/higor-hss/"><img src="./assets/arcade/cabinet/linkedin.svg" width="100%" alt="Higor Santos no LinkedIn"></a></p>
