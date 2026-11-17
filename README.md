@@ -1,18 +1,13 @@
-# Olá! Eu sou Higor Santos 👋
+![Higor Santos — Backend com Java, Spring Boot e SQL](./assets/terminal.svg)
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções eficientes e inovadoras. Aqui você vai encontrar alguns dos meus projetos, que vão de pequenos scripts a grandes aplicações. Fique à vontade para explorar!
+Tenho estudado backend com Java e Spring Boot, praticando com APIs REST, SQL e padrões de projeto.
 
-## 🚀 Tecnologias que eu uso
+## `$ ls projetos/`
 
-- 💻 **Linguagens de Programação**: Java.
-- ⚙️ **Frameworks e Bibliotecas**: SpringBoot
-- 📊 **Outros**: SQL
+- [**Assistente Financeiro com IA**](https://github.com/hssHigor/assistente-financeiro) — API em Java e Spring Boot que interpreta comandos de texto ou voz e consulta ou registra transações com *tool calling*.
+- [**Controle de Gastos**](https://github.com/hssHigor/DesafioPratico) — Desafio técnico para cadastrar pessoas, acompanhar receitas e despesas e gerar relatórios consolidados.
+- [**Padrões de Projeto em Java**](https://github.com/hssHigor/padroes-projeto-java) — Repositório de estudos sobre os conceitos básicos de padrões de projeto em Java.
 
-## 🌱 Atualmente aprendendo
+## `$ cat contato.txt`
 
-- Aprendendo mais sobre **Java**
-- Explorando **JavaScript** para melhorar minhas habilidades.
-
-## 📬 Vamos nos conectar!
-
-- [LinkedIn](https://www.linkedin.com/in/higor-hss/)
+[LinkedIn · Higor Santos](https://www.linkedin.com/in/higor-hss/)
