@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="90" viewBox="0 0 540 90" role="img" aria-labelledby="title">
+<title id="title">Assistente Financeiro com IA</title>
+<path d="M20 1H520V10H531V19H539V81L531 89H9L1 81V19H9V10H20Z" fill="#552791" stroke="#e0a5ff" stroke-width="2"/>
+<path d="M19 22H521V72H19Z" fill="#120e23"/>
+<path d="M19 76H521M19 80H521" stroke="#e0a5ff" stroke-opacity=".5" stroke-width="2"/>
+<g shape-rendering="crispEdges">
+<rect x="52" y="27" width="5" height="5" fill="#e0a5ff"/>
+<rect x="47" y="32" width="5" height="5" fill="#e0a5ff"/><rect x="52" y="32" width="5" height="5" fill="#e0a5ff"/><rect x="57" y="32" width="5" height="5" fill="#e0a5ff"/>
+<rect x="37" y="37" width="5" height="5" fill="#e0a5ff"/><rect x="42" y="37" width="5" height="5" fill="#e0a5ff"/><rect x="47" y="37" width="5" height="5" fill="#e0a5ff"/><rect x="52" y="37" width="5" height="5" fill="#e0a5ff"/><rect x="57" y="37" width="5" height="5" fill="#e0a5ff"/><rect x="62" y="37" width="5" height="5" fill="#e0a5ff"/><rect x="67" y="37" width="5" height="5" fill="#e0a5ff"/>
+<rect x="37" y="42" width="5" height="5" fill="#e0a5ff"/><rect x="42" y="42" width="5" height="5" fill="#552791"/><rect x="47" y="42" width="5" height="5" fill="#552791"/><rect x="52" y="42" width="5" height="5" fill="#552791"/><rect x="57" y="42" width="5" height="5" fill="#552791"/><rect x="62" y="42" width="5" height="5" fill="#552791"/><rect x="67" y="42" width="5" height="5" fill="#e0a5ff"/>
+<rect x="37" y="47" width="5" height="5" fill="#e0a5ff"/><rect x="42" y="47" width="5" height="5" fill="#552791"/><rect x="47" y="47" width="5" height="5" fill="#fff1dc"/><rect x="52" y="47" width="5" height="5" fill="#552791"/><rect x="57" y="47" width="5" height="5" fill="#fff1dc"/><rect x="62" y="47" width="5" height="5" fill="#552791"/><rect x="67" y="47" width="5" height="5" fill="#e0a5ff"/><rect x="77" y="47" width="5" height="5" fill="#ffda78"/><rect x="82" y="47" width="5" height="5" fill="#ffda78"/>
+<rect x="37" y="52" width="5" height="5" fill="#e0a5ff"/><rect x="42" y="52" width="5" height="5" fill="#552791"/><rect x="47" y="52" width="5" height="5" fill="#552791"/><rect x="52" y="52" width="5" height="5" fill="#552791"/><rect x="57" y="52" width="5" height="5" fill="#552791"/><rect x="62" y="52" width="5" height="5" fill="#552791"/><rect x="67" y="52" width="5" height="5" fill="#e0a5ff"/><rect x="77" y="52" width="5" height="5" fill="#ffda78"/><rect x="82" y="52" width="5" height="5" fill="#ffda78"/>
+<rect x="37" y="57" width="5" height="5" fill="#e0a5ff"/><rect x="42" y="57" width="5" height="5" fill="#e0a5ff"/><rect x="47" y="57" width="5" height="5" fill="#e0a5ff"/><rect x="52" y="57" width="5" height="5" fill="#e0a5ff"/><rect x="57" y="57" width="5" height="5" fill="#e0a5ff"/><rect x="62" y="57" width="5" height="5" fill="#e0a5ff"/><rect x="67" y="57" width="5" height="5" fill="#e0a5ff"/>
+</g>
+<text x="101" y="55" fill="#e0a5ff" font-family="monospace" font-size="22" font-weight="bold">Assistente Financeiro com IA</text>
+<path d="M499 39l9 8-9 8" fill="none" stroke="#e0a5ff" stroke-width="3"/>
+</svg>
